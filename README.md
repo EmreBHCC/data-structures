@@ -1,2 +1,2 @@
 # data-structures
-my data-structtures area for learning
+my data-structures area for learning with cpp
